@@ -2,6 +2,7 @@
   "packageDirectories": [
     {
       "path": "force-app"
+      "oauthLocalPort" : "1919"
     }
   ],
   "namespace": "",
